@@ -1,0 +1,9 @@
+{
+  "name": "semantic-ui",
+  "description": "Semantic UI Extented Icons packaged for meteor",
+  "homepage": "https://github.com/praneybehl/semantic-ui-extented-icons-Meteor",
+  "author": "nooitaf (http://nooitaf.nl)",
+  "version": "0.14.0",
+  "git": "https://github.com/praneybehl/semantic-ui-extented-icons-Meteor.git",
+  "packages": { }
+}
