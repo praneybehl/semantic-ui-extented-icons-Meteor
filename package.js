@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Semantic UI packaged for meteor"
+  summary: "semantic-ui-extented-icons-Meteor"
 });
 
 Package.on_use(function (api) {
